@@ -23,9 +23,9 @@ I’m passionate about **solving real-world problems with data** and **building 
 
 ### 💬 **Let’s Connect!**
 
-- 📧 **Email**: [sahithikandanelly@gmail.com](mailto:sahithikandanelly@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/sahithipriya21](https://www.linkedin.com/in/sahithipriya21)  
-- 📝 **Portfolio** [Portfolio](https://sahithis-portfolio.jimdosite.com/)  
+📧 **Email**: [sahithikandanelly@gmail.com](mailto:sahithikandanelly@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/sahithipriya21](https://www.linkedin.com/in/sahithipriya21)  
+📝 **Portfolio**: [sahithis-portfolio.jimdosite.com/](https://sahithis-portfolio.jimdosite.com/)  
 
 ---
 

@@ -11,17 +11,17 @@
 
 ## 🌍 Let's Connect!
 - 📧 [Email me](mailto:sahithikandanelly@gmail.com)
-- 📄 [Resume](https://www.linkedin.com/in/sahithipriya21)
 - 💬 [LinkedIn](https://www.linkedin.com/in/sahithipriya21)
 
 
 - 💼 Experience
-Blue verse Systems : Data Engineer
-Aggress Tech Solutions Pvt Ltd : Data Analyst Engineer
+- Blue verse Systems : Data Engineer
+- Aggress Tech Solutions Pvt Ltd : Data Analyst Engineer
 
 - 🎓 Education
-MS in Business Analytics - California State University, Eastbay
-BE in Electrical and Electronics - CBIT Hyderabad
+- MS in Business Analytics - California State University, Eastbay
+- BE in Electrical and Electronics - CBIT Hyderabad
+- 
 <!---
 sahithipriya21/sahithipriya21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
